@@ -26,7 +26,7 @@ An AI-powered GIS Assistant built with Streamlit to help GIS engineers with spat
 5. Enter your API keys directly in the app sidebar to start chatting.
 
 ## 📸 Screenshots
-*(Add screenshots of the UI here)*
+![AI GIS Assistant UI](UI.png)
 
 ## 🌐 Live Demo
-*(Add Streamlit Cloud link here)*
+[Launch the AI GIS Assistant App on Streamlit Cloud](https://spatial-analyst-ai-02.streamlit.app/)
